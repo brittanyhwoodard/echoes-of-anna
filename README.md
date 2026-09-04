@@ -8,7 +8,7 @@ The project models how player agency and branching dialogue affect long-term nar
 
 ##  Playable Demos & Design Artifacts
 
-- **Playable Web Export (Act I):** [Play on itch.io](https://brittany2003.itch.io/echoes-of-anna-act-1)
+- **Playable Web Export (Act I):** [Play on itch.io](https://brittany2003.itch.io/echoes-of-anna-act-i)
 - **Interactive UI/UX Prototype:** Built in Figma to model screen layouts, hover states, and navigational branching.
 
 
